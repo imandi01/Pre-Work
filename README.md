@@ -15,19 +15,20 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Watch the demo video]()
+[Watch the demo video](./VidoWalkthrough.mp4)
 
 ## App Brainstorming (Step 4)
 Favorite Apps and Features:
-Instagram
+
+Instagram-
 Customizable themes for background colors.
 Ability to change filters on photos in real-time.
 
-Spotify
+Spotify-
 Dark mode for reduced eye strain.
 Customizable playlists with easy access.
 
-YouTube
+YouTube-
 Ability to change video quality for faster loading.
 Automatic dark/light mode switch based on time of day.
 
@@ -44,7 +45,7 @@ Debugging the background color function was a bit tricky, but I learned how to u
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Imandi.K]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
